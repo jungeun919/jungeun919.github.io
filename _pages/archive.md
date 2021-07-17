@@ -1,6 +1,6 @@
 ---
 title: "ARCHIVE"
-layout: categories
+layout: single
 permalink: /archive/
 author_profile: true
 ---
