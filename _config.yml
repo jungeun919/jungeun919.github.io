@@ -20,7 +20,7 @@ title                    : "Jungeun's DevLog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jungeun Choi"
-description              : "Backend Engineer"
+description              : "👩‍💻 Backend Engineer"
 url                      : jungeun919.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : Jungeun Choi
   avatar           : "/assets/emoji.jpg"
-  bio              : "Backend Engineer"
+  bio              : "👩‍💻 Backend Engineer"
   location         : "Republic of Korea"
   email            :
   links:
